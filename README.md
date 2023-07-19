@@ -17,7 +17,7 @@ Programa desenvolvido em JAVA com uso do Jframe para estilização da calculador
 <br>
 
 <p align="center">
-  <img alt="Projeto Calculadora" src=".github/Calculadora.jpg" width="100%">
+  <img alt="Projeto Calculadora" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
